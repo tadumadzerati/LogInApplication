@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56408477009",
+    "firebase_url": "https://loginapplication-a80f7.firebaseio.com",
+    "project_id": "loginapplication-a80f7",
+    "storage_bucket": "loginapplication-a80f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56408477009:android:c8f7685c44549560",
+        "android_client_info": {
+          "package_name": "tadumadzerati.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56408477009-va1r10a8kkgjsgah5jr7ci2bf4jsuk50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tadumadzerati.loginapplication",
+            "certificate_hash": "317e87cdb7eb6272f0229096dc9caf4961dede80"
+          }
+        },
+        {
+          "client_id": "56408477009-f53e46b9478gb8ghqa5hqtfdiobneifk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLK-xuBJxzIgGS8EVdVYtJE_aAYQwXJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56408477009-f53e46b9478gb8ghqa5hqtfdiobneifk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
